@@ -50,5 +50,16 @@ public class Main
 
         doubleQuotient = doubleOperandA / doubleOperandB;
         System.out.println("The quotient of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient);
+
+        // Declaring variables here
+
+        int intLunchCost = 3;
+        int intKidsFamily = 4;
+        boolean isRaining = false;
+        double doubleGasPrice = 3.50;
+        int intFavNumber = 7;
+        double doubleShoeSize = 8.5;
+        String birthMonth = "June";
+        String fullName = "Erin Grace Hearn"
     }
 }
