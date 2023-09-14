@@ -60,6 +60,6 @@ public class Main
         int intFavNumber = 7;
         double doubleShoeSize = 8.5;
         String birthMonth = "June";
-        String fullName = "Erin Grace Hearn"
+        String fullName = "Erin Grace Hearn";
     }
 }
