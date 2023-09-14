@@ -41,5 +41,14 @@ public class Main
 
         doubleSum = doubleOperandA + doubleOperandB;
         System.out.println("The sum of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleSum);
+
+        doubleProduct = doubleOperandA * doubleOperandB;
+        System.out.println("The product of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleProduct);
+
+        doubleDifference = doubleOperandA - doubleOperandB;
+        System.out.println("The difference of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleDifference);
+
+        doubleQuotient = doubleOperandA / doubleOperandB;
+        System.out.println("The quotient of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient);
     }
 }
